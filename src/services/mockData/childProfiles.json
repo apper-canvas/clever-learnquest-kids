@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "name": "Emma",
+    "age": 6,
+    "avatarId": "unicorn",
+    "favoriteColor": "purple",
+    "totalStars": 45,
+    "totalCoins": 120,
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Liam",
+    "age": 5,
+    "avatarId": "robot",
+    "favoriteColor": "blue",
+    "totalStars": 32,
+    "totalCoins": 85,
+    "createdAt": "2024-01-20T14:15:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Sophia",
+    "age": 8,
+    "avatarId": "dragon",
+    "favoriteColor": "green",
+    "totalStars": 78,
+    "totalCoins": 210,
+    "createdAt": "2024-01-10T09:45:00Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "profileId": "1",
+    "date": "2024-01-25",
+    "recommendedGames": ["counting-fun", "letter-match", "shape-sorter"],
+    "completedGames": ["counting-fun", "letter-match"],
+    "isComplete": false
+  },
+  {
+    "profileId": "1",
+    "date": "2024-01-24",
+    "recommendedGames": ["addition-adventure", "phonics-fun", "pattern-play"],
+    "completedGames": ["addition-adventure", "phonics-fun", "pattern-play"],
+    "isComplete": true
+  },
+  {
+    "profileId": "2",
+    "date": "2024-01-25",
+    "recommendedGames": ["counting-fun", "abc-song", "color-match"],
+    "completedGames": ["counting-fun"],
+    "isComplete": false
+  },
+  {
+    "profileId": "3",
+    "date": "2024-01-25",
+    "recommendedGames": ["word-builder", "subtraction-safari", "story-time"],
+    "completedGames": ["word-builder", "subtraction-safari"],
+    "isComplete": false
+  }
+]

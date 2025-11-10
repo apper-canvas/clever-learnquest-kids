@@ -1,0 +1,57 @@
+[
+  {
+    "profileId": "1",
+    "worldId": "math",
+    "gameId": "counting-fun",
+    "difficultyLevel": 2,
+    "starsEarned": 3,
+    "highScore": 95,
+    "attemptsCount": 5,
+    "averageAccuracy": 88.5,
+    "lastPlayedAt": "2024-01-25T16:20:00Z"
+  },
+  {
+    "profileId": "1",
+    "worldId": "math",
+    "gameId": "addition-adventure",
+    "difficultyLevel": 1,
+    "starsEarned": 2,
+    "highScore": 78,
+    "attemptsCount": 3,
+    "averageAccuracy": 76.2,
+    "lastPlayedAt": "2024-01-24T15:45:00Z"
+  },
+  {
+    "profileId": "1",
+    "worldId": "reading",
+    "gameId": "letter-match",
+    "difficultyLevel": 2,
+    "starsEarned": 3,
+    "highScore": 100,
+    "attemptsCount": 4,
+    "averageAccuracy": 92.8,
+    "lastPlayedAt": "2024-01-25T14:30:00Z"
+  },
+  {
+    "profileId": "2",
+    "worldId": "math",
+    "gameId": "counting-fun",
+    "difficultyLevel": 1,
+    "starsEarned": 2,
+    "highScore": 72,
+    "attemptsCount": 6,
+    "averageAccuracy": 68.3,
+    "lastPlayedAt": "2024-01-23T11:15:00Z"
+  },
+  {
+    "profileId": "3",
+    "worldId": "reading",
+    "gameId": "word-builder",
+    "difficultyLevel": 3,
+    "starsEarned": 3,
+    "highScore": 98,
+    "attemptsCount": 2,
+    "averageAccuracy": 95.5,
+    "lastPlayedAt": "2024-01-25T17:00:00Z"
+  }
+]

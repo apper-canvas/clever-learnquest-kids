@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "badgeId": "first-star",
+    "name": "First Star",
+    "description": "Earned your very first star!",
+    "icon": "Star",
+    "color": "#FFD93D",
+    "category": "milestone"
+  },
+  {
+    "Id": 2,
+    "badgeId": "math-explorer",
+    "name": "Math Explorer",
+    "description": "Played 5 different math games",
+    "icon": "Calculator",
+    "color": "#FF6B9D",
+    "category": "world"
+  },
+  {
+    "Id": 3,
+    "badgeId": "reading-champion",
+    "name": "Reading Champion",
+    "description": "Mastered 3 reading games",
+    "icon": "BookOpen",
+    "color": "#4ECDC4",
+    "category": "world"
+  },
+  {
+    "Id": 4,
+    "badgeId": "daily-learner",
+    "name": "Daily Learner",
+    "description": "Completed daily goals for 7 days",
+    "icon": "Calendar",
+    "color": "#6BCF7F",
+    "category": "consistency"
+  },
+  {
+    "Id": 5,
+    "badgeId": "perfect-score",
+    "name": "Perfect Score",
+    "description": "Got 100% on any game",
+    "icon": "Trophy",
+    "color": "#FFB347",
+    "category": "achievement"
+  },
+  {
+    "Id": 6,
+    "badgeId": "star-collector",
+    "name": "Star Collector",
+    "description": "Collected 50 stars",
+    "icon": "Sparkles",
+    "color": "#FF6B9D",
+    "category": "milestone"
+  },
+  {
+    "Id": 7,
+    "badgeId": "coin-master",
+    "name": "Coin Master",
+    "description": "Collected 100 coins",
+    "icon": "Coins",
+    "color": "#FFD93D",
+    "category": "milestone"
+  },
+  {
+    "Id": 8,
+    "badgeId": "learning-streak",
+    "name": "Learning Streak",
+    "description": "Played games for 5 days in a row",
+    "icon": "Flame",
+    "color": "#FF6B9D",
+    "category": "consistency"
+  }
+]

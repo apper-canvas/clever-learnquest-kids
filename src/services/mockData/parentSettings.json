@@ -1,0 +1,6 @@
+{
+  "pin": "1234",
+  "notificationsEnabled": true,
+  "sessionTimeLimit": 30,
+  "allowedWorlds": ["math", "reading"]
+}

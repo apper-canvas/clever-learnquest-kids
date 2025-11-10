@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "worldId": "math",
+    "name": "Math World",
+    "description": "Explore numbers, shapes, and problem solving!",
+    "mascot": "NumberBot",
+    "primaryColor": "#FF6B9D",
+    "isUnlocked": true,
+    "minAge": 4,
+    "maxAge": 10
+  },
+  {
+    "Id": 2,
+    "worldId": "reading",
+    "name": "Reading Land",
+    "description": "Discover letters, words, and amazing stories!",
+    "mascot": "WiseOwl",
+    "primaryColor": "#4ECDC4",
+    "isUnlocked": true,
+    "minAge": 4,
+    "maxAge": 10
+  }
+]

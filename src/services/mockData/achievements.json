@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "profileId": "1",
+    "badgeId": "first-star",
+    "earnedAt": "2024-01-15T11:00:00Z",
+    "category": "milestone"
+  },
+  {
+    "Id": 2,
+    "profileId": "1",
+    "badgeId": "math-explorer",
+    "earnedAt": "2024-01-20T16:30:00Z",
+    "category": "world"
+  },
+  {
+    "Id": 3,
+    "profileId": "1",
+    "badgeId": "daily-learner",
+    "earnedAt": "2024-01-25T18:45:00Z",
+    "category": "consistency"
+  },
+  {
+    "Id": 4,
+    "profileId": "2",
+    "badgeId": "first-star",
+    "earnedAt": "2024-01-20T15:00:00Z",
+    "category": "milestone"
+  },
+  {
+    "Id": 5,
+    "profileId": "3",
+    "badgeId": "reading-champion",
+    "earnedAt": "2024-01-25T17:15:00Z",
+    "category": "world"
+  },
+  {
+    "Id": 6,
+    "profileId": "3",
+    "badgeId": "perfect-score",
+    "earnedAt": "2024-01-25T17:00:00Z",
+    "category": "achievement"
+  }
+]

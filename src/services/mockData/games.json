@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "gameId": "counting-fun",
+    "worldId": "math",
+    "name": "Counting Fun",
+    "description": "Count objects and learn numbers 1-20",
+    "icon": "Hash",
+    "minDifficulty": 1,
+    "maxDifficulty": 3,
+    "skills": ["counting", "number recognition"],
+    "ageRange": "4-7"
+  },
+  {
+    "Id": 2,
+    "gameId": "addition-adventure",
+    "worldId": "math",
+    "name": "Addition Adventure",
+    "description": "Solve fun addition problems with visual helpers",
+    "icon": "Plus",
+    "minDifficulty": 1,
+    "maxDifficulty": 3,
+    "skills": ["addition", "mental math"],
+    "ageRange": "5-8"
+  },
+  {
+    "Id": 3,
+    "gameId": "shape-sorter",
+    "worldId": "math",
+    "name": "Shape Sorter",
+    "description": "Match and sort different shapes and colors",
+    "icon": "Shapes",
+    "minDifficulty": 1,
+    "maxDifficulty": 3,
+    "skills": ["shapes", "patterns", "sorting"],
+    "ageRange": "4-6"
+  },
+  {
+    "Id": 4,
+    "gameId": "subtraction-safari",
+    "worldId": "math",
+    "name": "Subtraction Safari",
+    "description": "Go on a safari while learning subtraction",
+    "icon": "Minus",
+    "minDifficulty": 1,
+    "maxDifficulty": 3,
+    "skills": ["subtraction", "problem solving"],
+    "ageRange": "6-9"
+  },
+  {
+    "Id": 5,
+    "gameId": "pattern-play",
+    "worldId": "math",
+    "name": "Pattern Play",
+    "description": "Complete fun patterns with shapes and colors",
+    "icon": "Grid3X3",
+    "minDifficulty": 1,
+    "maxDifficulty": 3,
+    "skills": ["patterns", "logic", "sequencing"],
+    "ageRange": "5-8"
+  },
+  {
+    "Id": 6,
+    "gameId": "letter-match",
+    "worldId": "reading",
+    "name": "Letter Match",
+    "description": "Match uppercase and lowercase letters",
+    "icon": "AlphabetA",
+    "minDifficulty": 1,
+    "maxDifficulty": 3,
+    "skills": ["letter recognition", "alphabet"],
+    "ageRange": "4-6"
+  },
+  {
+    "Id": 7,
+    "gameId": "phonics-fun",
+    "worldId": "reading",
+    "name": "Phonics Fun",
+    "description": "Learn letter sounds and phonics",
+    "icon": "Volume2",
+    "minDifficulty": 1,
+    "maxDifficulty": 3,
+    "skills": ["phonics", "letter sounds"],
+    "ageRange": "4-7"
+  },
+  {
+    "Id": 8,
+    "gameId": "word-builder",
+    "worldId": "reading",
+    "name": "Word Builder",
+    "description": "Build words with letters and sounds",
+    "icon": "Type",
+    "minDifficulty": 1,
+    "maxDifficulty": 3,
+    "skills": ["spelling", "word formation"],
+    "ageRange": "6-9"
+  },
+  {
+    "Id": 9,
+    "gameId": "sight-words",
+    "worldId": "reading",
+    "name": "Sight Words",
+    "description": "Learn common sight words through games",
+    "icon": "Eye",
+    "minDifficulty": 1,
+    "maxDifficulty": 3,
+    "skills": ["sight words", "reading fluency"],
+    "ageRange": "5-8"
+  },
+  {
+    "Id": 10,
+    "gameId": "story-time",
+    "worldId": "reading",
+    "name": "Story Time",
+    "description": "Interactive stories with comprehension games",
+    "icon": "BookOpen",
+    "minDifficulty": 1,
+    "maxDifficulty": 3,
+    "skills": ["reading comprehension", "vocabulary"],
+    "ageRange": "6-10"
+  }
+]
