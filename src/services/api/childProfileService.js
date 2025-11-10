@@ -52,24 +52,32 @@ class ChildProfileService {
     return true
   }
 
-  async addStars(profileId, stars) {
+async addStars(profileId, stars) {
     await this.delay(200)
-    const profile = this.profiles.find(p => p.Id === parseInt(profileId))
-    if (!profile) {
+    const profileIndex = this.profiles.findIndex(p => p.Id === parseInt(profileId))
+    if (profileIndex === -1) {
       throw new Error("Profile not found")
     }
-    profile.totalStars += stars
-    return { ...profile }
+    const updatedProfile = {
+      ...this.profiles[profileIndex],
+      totalStars: this.profiles[profileIndex].totalStars + stars
+    }
+    this.profiles[profileIndex] = updatedProfile
+    return { ...updatedProfile }
   }
 
-  async addCoins(profileId, coins) {
+async addCoins(profileId, coins) {
     await this.delay(200)
-    const profile = this.profiles.find(p => p.Id === parseInt(profileId))
-    if (!profile) {
+    const profileIndex = this.profiles.findIndex(p => p.Id === parseInt(profileId))
+    if (profileIndex === -1) {
       throw new Error("Profile not found")
     }
-    profile.totalCoins += coins
-    return { ...profile }
+    const updatedProfile = {
+      ...this.profiles[profileIndex],
+      totalCoins: this.profiles[profileIndex].totalCoins + coins
+    }
+    this.profiles[profileIndex] = updatedProfile
+    return { ...updatedProfile }
   }
 
   getNextId() {
